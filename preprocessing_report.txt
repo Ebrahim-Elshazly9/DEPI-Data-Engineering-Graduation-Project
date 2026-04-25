@@ -1,0 +1,56 @@
+MindGuard — Milestone 1 Preprocessing Report
+==================================================
+
+Final shape          : (27901, 18)
+Null values remaining: 0
+
+Column dtypes:
+id                                         int64
+gender                                    object
+age                                      float64
+city                                      object
+profession                                object
+academic_pressure                        float64
+work_pressure                            float64
+cgpa                                     float64
+study_satisfaction                       float64
+job_satisfaction                         float64
+sleep_duration                           float64
+dietary_habits                            object
+degree                                    object
+have_you_ever_had_suicidal_thoughts_?     object
+work/study_hours                         float64
+financial_stress                         float64
+family_history_of_mental_illness          object
+depression                                 int32
+
+Missing values per column:
+id                                       0
+gender                                   0
+age                                      0
+city                                     0
+profession                               0
+academic_pressure                        0
+work_pressure                            0
+cgpa                                     0
+study_satisfaction                       0
+job_satisfaction                         0
+sleep_duration                           0
+dietary_habits                           0
+degree                                   0
+have_you_ever_had_suicidal_thoughts_?    0
+work/study_hours                         0
+financial_stress                         0
+family_history_of_mental_illness         0
+depression                               0
+
+Basic statistics:
+                  id           age  academic_pressure  work_pressure          cgpa  study_satisfaction  job_satisfaction  sleep_duration  work/study_hours  financial_stress    depression
+count   27901.000000  27901.000000       27901.000000   27901.000000  27901.000000        27901.000000      27901.000000    27901.000000      27901.000000      27901.000000  27901.000000
+mean    70442.149421     25.822300           3.141214       0.000430      7.656104            2.943837          0.000681        6.337999          7.156984          3.139852      0.585499
+std     40641.175216      4.905687           1.381465       0.043992      1.470707            1.361148          0.044394        1.916980          3.707642          1.437270      0.492645
+min         2.000000     18.000000           0.000000       0.000000      0.000000            0.000000          0.000000        4.000000          0.000000          1.000000      0.000000
+25%     35039.000000     21.000000           2.000000       0.000000      6.290000            2.000000          0.000000        4.000000          4.000000          2.000000      0.000000
+50%     70684.000000     25.000000           3.000000       0.000000      7.770000            3.000000          0.000000        5.500000          8.000000          3.000000      1.000000
+75%    105818.000000     30.000000           4.000000       0.000000      8.920000            4.000000          0.000000        7.500000         10.000000          4.000000      1.000000
+max    140699.000000     59.000000           5.000000       5.000000     10.000000            5.000000          4.000000        9.000000         12.000000          5.000000      1.000000
