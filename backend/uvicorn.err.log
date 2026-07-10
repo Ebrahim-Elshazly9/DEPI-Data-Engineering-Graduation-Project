@@ -1,0 +1,15 @@
+.\.venv\Scripts\Activate.ps1 : The term '.\.venv\Scripts\Activate.ps1' is not recognized as the name of a cmdlet, 
+function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the 
+path is correct and try again.
+At line:1 char:53
++ ... ting Website\MindGuard\backend'; .\.venv\Scripts\Activate.ps1; uvicor ...
++                                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.\.venv\Scripts\Activate.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+INFO:     Will watch for changes in these directories: ['D:\\Projects\\Testing Website\\MindGuard\\backend']
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [21100] using WatchFiles
+INFO:     Started server process [27664]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
