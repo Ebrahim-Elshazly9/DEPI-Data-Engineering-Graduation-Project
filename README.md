@@ -110,17 +110,53 @@ Student Input → DistilBERT → Embeddings → FAISS Search → LLM → Persona
 
 ## 📈 Analytics
 
-Power BI dashboards provide:
+## 📊 Mental Health Analytics Dashboard
 
-- Mental Health Trends
-- Risk Distribution
-- Critical Case Monitoring
-- Student Ranking
-- Feature Importance
-- Demographic Analysis
-- NLP Sentiment Trends
-- Executive Reports
+![MindGuard Dashboard](Overview/dashboard.png)
 
+The **Mental Health Analytics Dashboard** provides an interactive overview of student mental health trends by combining structured survey data with machine learning predictions. Built with **Power BI**, it enables counsellors and administrators to monitor student wellbeing, identify high-risk cases, and support data-driven decision making.
+
+---
+
+## 📈 Key Insights
+
+### 🚨 Executive KPIs
+- **High Risk Students:** Percentage of students classified as High or Critical risk.
+- **Average Financial Stress:** Average financial stress level across all students.
+- **Average Academic Pressure:** Overall academic workload pressure.
+- **Average Depression Score:** Mean depression risk score.
+- **Family History Rate:** Percentage of students with a family history of mental illness.
+
+### 📊 Risk Level Distribution
+- Visualizes the distribution of students across **Low**, **Medium**, **High**, and **Critical** risk categories.
+- Helps identify the overall mental health status of the student population.
+
+### 👨‍🎓 Risk Level by Gender
+- Compares risk levels between male and female students.
+- Supports demographic-based mental health analysis.
+
+### 😴 Risk Score by Sleep Duration
+- Shows the relationship between sleep duration and mental health risk.
+- Highlights that students with fewer sleep hours tend to have higher risk scores.
+
+### ⚠️ Risk Score by Suicidal Thoughts
+- Compares predicted risk scores for students with and without suicidal thoughts.
+- Enables early identification of critical cases.
+
+### 🥗 Dietary Habit Analysis
+- Displays the distribution of healthy, moderate, and unhealthy dietary habits.
+- Supports analysis of lifestyle factors affecting mental wellbeing.
+
+### 💰 Financial Stress Analysis
+- Demonstrates how increasing financial stress correlates with higher mental health risk.
+- Identifies financial stress as one of the strongest contributing factors.
+
+
+---
+
+## 🎯 Business Value
+
+The dashboard transforms raw assessment data into actionable insights, enabling universities to proactively identify at-risk students, monitor mental health trends, and support informed decision-making for early intervention and improved student wellbeing.
 ---
 
 ## 🌐 Web Platform
