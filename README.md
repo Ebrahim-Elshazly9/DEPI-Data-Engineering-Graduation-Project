@@ -5,10 +5,7 @@
 ---
 ## 🏗 System Architecture
 
-<p align="center">
-  <img src="Overview/MindGuard_flow.png" alt="MindGuard Architecture" width="1000"/>
-</p>
-## 📖 Overview
+![MindGuard Architecture](Overview/MindGuard_flow.png)## 📖 Overview
 
 MindGuard is an AI-powered mental health intelligence system designed to help universities detect students at risk of depression and other mental health conditions before they become critical. The platform integrates data engineering, machine learning, natural language processing, retrieval-augmented generation (RAG), business intelligence, and web technologies into one unified solution.
 
