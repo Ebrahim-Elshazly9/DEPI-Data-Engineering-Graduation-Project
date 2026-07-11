@@ -233,9 +233,5 @@ MindGuard/
 - Unified platform for students, counsellors, and administrators.
 
 ---
+## Our Team: 
 
-## 👨‍💻 Author
-
-**Ebrahim Elshazly**
-
-AI Engineer • Data Engineer • Machine Learning Engineer • Full-Stack Developer
